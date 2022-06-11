@@ -1,2 +1,2 @@
-# Maa-Hesaplay-c-java
+# Maas-Hesaplayici-java
 www.patika.dev
